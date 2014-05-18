@@ -1,4 +1,4 @@
 tweet
 =====
 
-test twitter4j
+twitter4j使ってみる
